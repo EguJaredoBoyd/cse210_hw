@@ -4,6 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
+        Console.WriteLine("Hello World! This is the Exercise2 Project.")
         bool playAgain = true;
 
         while (playAgain)
